@@ -1,0 +1,79 @@
+
+.botao{
+    color: hwb(220 98% 1%);
+    background-color: rgb(187, 6, 6);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.aa{
+    color:aliceblue;
+    margin-left: 16px;
+    text-decoration: none;
+
+    
+}
+
+header li{
+    display: inline;
+
+
+    
+}
+.container{
+    width: 1066px;
+    margin: 0 auto;
+
+}
+.lado{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.lado article img{
+    height: 180px;
+
+}
+.lado article{
+    width: 30%;
+
+}
+
+.ahref{
+    background-color: rgb(228, 5, 5);
+    color: aliceblue;
+    padding: 2px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}   
+.ahref:hover{
+    text-decoration: underline;
+}
+.espaço{
+    margin: 5% auto;
+}
+p{
+    font-family: arial;
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-size:24px;
+}
+#sports{
+    background-color:bisque;
+}
+#economy{
+    background-color: burlywood;
+}
+#tecnologia{
+    background-color: cyan;
+}
+#politica{
+    background-color: darkgray;
+}
+
